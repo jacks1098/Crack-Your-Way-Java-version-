@@ -14,7 +14,7 @@ public class UserService {
 	 public UserService() {
 		 try {
 				Class.forName("com.mysql.cj.jdbc.Driver");
-				conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/cyw", "root", "root");
+				conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/cyw", "", "");
 			
 		 } catch(Exception e) {
 			 e.printStackTrace();
