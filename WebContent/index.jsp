@@ -116,7 +116,6 @@ if(id!=null)
                 <div class="card-header mx-auto bg-dark">
                <br/>
                 <span class="logo_title display-4 text-success"> CRACK YOUR WAY </span><br/>
-                              <!--    <span class="logo_title display-4 text-info"> Login Dashboard </span>  -->
                               <h1> Login Dashboard</h1>
                    <p class="text-center text-danger">${message}</p> 
         
