@@ -1,14 +1,14 @@
 # Crack-Your-Way-Java-version-
-The crack your way - a game that can be oragnize  in college tech-fest. 
+The crack your way - a game that can be oragnize  in college tech-fest.
 
 # Game Rules and Regulation:
- ->There will be a team of 3/4 member.
- ->Each team will get id and password to login into system.
- ->After login each team have to solve 20 questions one by one.
- ->The team who solve 20 questions first will be delcared as winner.
+ - There will be a team of 3/4 member.
+ - Each team will get id and password to login into system.
+ - After login each team have to solve 20 questions one by one.
+ - The team who solve 20 questions first will be delcared as winner.
 
 # System Info:
-  ->The questions will be in following format
+   ->The questions will be in following format
     Q.)______________________________________________
        A) Wrong Option   - Location 1
        B) Wrong Option   - Location 2
