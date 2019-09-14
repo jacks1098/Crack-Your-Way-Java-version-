@@ -8,7 +8,7 @@ The crack your way - a game that can be oragnize  in college tech-fest.
  - The team who solve 20 questions first will be delcared as winner.
 
 # System Info:
-  - The questions will be in following format
+  - The questions will be in following format<br />
     Q.)______________________________________________<br />
        A) Wrong Option   - Location 1<br />
        B) Wrong Option   - Location 2<br />
